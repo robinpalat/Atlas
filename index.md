@@ -11,7 +11,7 @@ nav_order: 1
 
 ### 2.1 Descripción General
 
-El **Sistema Atlas** es un sistema generativo de lenguaje y estética que transforma entradas perceptuales (imágenes) en salidas lingüísticas estructuradas, mediante una secuencia organizada de módulos funcionales. Su arquitectura se basa en un flujo de datos compuesto por tres capas fundamentales: **sensores**, **vectores** y **efectores**, que interactúan culminando en la generación de texto.
+El **Sistema Atlas** es un sistema generativo de lenguaje estético. Transforma entradas perceptuales (imágenes) en salidas lingüísticas estructuradas, mediante una secuencia organizada de módulos funcionales. Su arquitectura se basa en un flujo de datos compuesto por tres capas fundamentales: **sensores**, **vectores** y **efectores**, que interactúan culminando en la generación de texto.
 <br>
 El proceso se organiza en tres módulos principales:
 

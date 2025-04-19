@@ -1,3 +1,10 @@
+
+---
+layout: page
+title: Input de Carga Perceptual
+nav_order: 2
+---
+
 # Input de Carga Perceptual
 
 El **ICP (Input de Carga Perceptual)** es el primer módulo del sistema, encargado de recibir y analizar la imagen de entrada para extraer parámetros estéticos clave. Funciona como un conjunto de **sensores** que capturan diversas características visuales de la imagen.
@@ -21,16 +28,3 @@ El **ICP (Input de Carga Perceptual)** es el primer módulo del sistema, encarga
 - Algoritmos estadísticos para la identificación de estructuras complejas o patrones de repetición visual.
 
 ---
-
-
-
----
-
-### Flujo de Datos Completo
-
-La **arquitectura del sistema** funciona bajo el siguiente flujo de datos:
-
-1. **ICP**: Los datos visuales crudos de la imagen se capturan y se extraen en términos perceptuales.
-2. **MCVP**: Los datos perceptuales se vectorizan y se establecen correlaciones.
-3. **GLA**: Los vectores activan los efectores léxicos, que se alinean y se organizan para generar el texto final.
-

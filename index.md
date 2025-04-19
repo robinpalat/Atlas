@@ -1,4 +1,12 @@
 
+---
+layout: page
+title: Sistema Atlas
+permalink: /
+nav_order: 1
+---
+
+
 # Sistema Atlas
 
 ### 2.1 Descripción General
@@ -28,7 +36,7 @@ El sistema está diseñado para operar con tres tipos de datos: **sensores, vect
 
 ### 2.3 Módulos Funcionales
 
-#### 2.3.1 ICP - Input de Carga Perceptual
+### 2.3.1 ICP - Input de Carga Perceptual
 
 Es el módulo inicial que recibe la imagen como entrada. Contiene los **sensores**, algoritmos especializados para analizar  e interpretar la estética visual, incluyendo:
 
@@ -40,7 +48,7 @@ Es el módulo inicial que recibe la imagen como entrada. Contiene los **sensores
 Su salida es un conjunto de datos perceptuales que constituyen el **ADN estético** de la imagen.
 
 
-#### 2.3.2 MCVP - Módulo de Codificación Vectorial Perceptual
+### 2.3.2 MCVP - Módulo de Codificación Vectorial Perceptual
 
 Este módulo interpreta los datos del ICP y los transforma en **vectores** que representan rasgos, relaciones y dinámicas perceptuales:
 
@@ -51,7 +59,7 @@ Este módulo interpreta los datos del ICP y los transforma en **vectores** que r
 Estos vectores tienen la capacidad de **activar** efectores en la etapa posterior, sirviendo como base estructural del lenguaje.
 
 
-#### 2.3.3 GLA - Generador Léxico Atlas
+### 2.3.3 GLA - Generador Léxico Atlas
 
 
 Compuesto por dos submódulos:

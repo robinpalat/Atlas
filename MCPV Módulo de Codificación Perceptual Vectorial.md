@@ -1,4 +1,12 @@
-# MCVP Módulo de codificación Vectorial Perceptual
+---
+layout: page
+title: Módulo de codificación Vectorial Perceptual
+nav_order: 3
+---
+
+
+
+# Módulo de codificación Vectorial Perceptual
 
 
 El **MCVP** es el módulo intermedio del Sistema Atlas. Su función principal es **vectorizar** los datos perceptuales generados por el ICP y mapearlos a un formato estructurado de vectores semánticos que representan las características clave de la imagen. Estos vectores sirven para activar los **efectores** en el siguiente paso del sistema.

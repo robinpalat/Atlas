@@ -1,9 +1,9 @@
-
 ---
-layout: page
+layout: default
 title: Sistema Atlas
 permalink: /
 nav_order: 1
+
 ---
 
 

@@ -1,8 +1,8 @@
-
 ---
 layout: page
 title: Input de Carga Perceptual
 nav_order: 2
+
 ---
 
 # Input de Carga Perceptual

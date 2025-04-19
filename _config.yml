@@ -1,0 +1,14 @@
+title: Atlas
+remote_theme: pmarsceill/just-the-docs
+url:  https://github.com/robinpalat/Atlas
+plugins:
+  - jekyll-feed
+
+
+# Sidebar
+just_the_docs:
+  search_enabled: true
+  collections:
+    notas:
+      name: "Notas"
+      permalink: /notas/

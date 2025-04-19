@@ -9,6 +9,7 @@ nav_order: 1
 
 # Sistema Atlas
 <br><br>
+
 ### 2.1 Descripción General
 
 <br><br>
@@ -19,8 +20,8 @@ El proceso se organiza en tres módulos principales:
 - **ICP (Input de Carga Perceptual)**: Captura la información visual cruda y extrae parámetros estéticos.
 - **MCVP (Módulo de Codificación Vectorial Perceptual)**: Vectoriza los datos del ICP, estableciendo correlaciones estructurales.
 - **GLA (Generador Léxico Atlas)**: Compuesto por el Dispositivo Léxico Dinámico (DLD) y la Fase de Alineamiento Estético (FAE), transforma los vectores en lenguaje y discurso estético.
-
 <br><br>
+
 ### 2.2 flujo de datos
 
 
@@ -46,9 +47,10 @@ Es el módulo inicial que recibe la imagen como entrada. Contiene los **sensores
 - Niveles de complejidad y orden.
 
 Su salida es un conjunto de datos perceptuales que constituyen el **ADN estético** de la imagen.
-
 <br><br>
+
 ### 2.3.2 MCVP - Módulo de Codificación Vectorial Perceptual
+
 <br><br>
 Este módulo interpreta los datos del ICP y los transforma en **vectores** que representan rasgos, relaciones y dinámicas perceptuales:
 

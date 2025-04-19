@@ -3,6 +3,7 @@
 
 ### 2.1 Descripción General
 
+
 El **Sistema Atlas** es un sistema generativo de lenguaje y estética que transforma entradas perceptuales (imágenes) en salidas lingüísticas estructuradas, mediante una secuencia organizada de módulos funcionales. Su arquitectura se basa en un flujo de datos compuesto por tres capas fundamentales: **sensores**, **vectores** y **efectores**, que interactúan culminando en la generación de texto.
 
 El proceso se organiza en tres módulos principales:
@@ -11,7 +12,9 @@ El proceso se organiza en tres módulos principales:
 - **MCVP (Módulo de Codificación Vectorial Perceptual)**: Vectoriza los datos del ICP, estableciendo correlaciones estructurales.
 - **GLA (Generador Léxico Atlas)**: Compuesto por el Dispositivo Léxico Dinámico (DLD) y la Fase de Alineamiento Estético (FAE), transforma los vectores en lenguaje y discurso estético.
 
+
 ### 2.2 flujo de datos
+
 
 La arquitectura se sostiene sobre un flujo lineal de datos:
 
@@ -19,7 +22,7 @@ La arquitectura se sostiene sobre un flujo lineal de datos:
 Sensores (ICP) → Vectores (MCVP) → Efectores (GLA) → Texto Final (FAE)
 ```
 
-Eel sistema está diseñado para operar con tres tipos de datos: sensores, vectores y efectores. Los sensores representan datos dinámicos que se extraen directamente de la imagen de entrada. Estos datos son fundamentales para captar las características estéticas de la imagen, tales como las proporciones áureas, la distribución de colores dominantes y secundarios, entre otros parámetros visuales. Los sensores permiten traducir las propiedades visuales de la imagen en información utilizable por el sistema, sirviendo como el primer paso en el flujo de datos. Los vectores y efectores son estáticos y   están estructurados de manera modular, independiente y expandible, lo que permite una mayor flexibilidad y sensibilidad al sistema. Esta arquitectura facilita la integración de nuevos componentes y la evolución del sistema a medida que se requiera mayor complejidad o capacidad de respuesta.
+El sistema está diseñado para operar con tres tipos de datos: **sensores, vectores y efectores**. Los **sensores** representan datos dinámicos que se extraen directamente de la imagen de entrada. Estos datos son fundamentales para captar las características estéticas de la imagen, tales como las proporciones áureas, la distribución de colores dominantes y secundarios, entre otros parámetros visuales. Los sensores permiten traducir las propiedades visuales de la imagen en información utilizable por el sistema, sirviendo como el primer paso en el flujo de datos. Los **vectores y efectores** son estáticos y   están estructurados de manera modular, independiente y expandible, lo que permite una mayor flexibilidad y sensibilidad al sistema. Esta arquitectura facilita la integración de nuevos componentes y la evolución del sistema a medida que se requiera mayor complejidad o capacidad de respuesta.
 
 
 
@@ -36,6 +39,7 @@ Es el módulo inicial que recibe la imagen como entrada. Contiene los **sensores
 
 Su salida es un conjunto de datos perceptuales que constituyen el **ADN estético** de la imagen.
 
+
 #### 2.3.2 MCVP - Módulo de Codificación Vectorial Perceptual
 
 Este módulo interpreta los datos del ICP y los transforma en **vectores** que representan rasgos, relaciones y dinámicas perceptuales:
@@ -46,21 +50,17 @@ Este módulo interpreta los datos del ICP y los transforma en **vectores** que r
 
 Estos vectores tienen la capacidad de **activar** efectores en la etapa posterior, sirviendo como base estructural del lenguaje.
 
+
 #### 2.3.3 GLA - Generador Léxico Atlas
+
 
 Compuesto por dos submódulos:
 
+
 - **Dispositivo Léxico Dinámico (DLD)**: Contiene un conjunto jerarquizado de **efectores** (léxicos, estéticos, gramaticales), organizados en capas que responden directamente a los vectores activadores.
 
+
 - **Fase de Alineamiento Estético (FAE)**: Se encarga de **ensamblar el texto final**, en una secuencia coherente, estéticamente significativa. Aquí interviene la **gramática como coordenada** y puede participar la **taxonomía** como principio regulador o compositivo.
-
-### 2.4 Taxonomía como Módulo Transversal
-
-La **taxonomía** puede intervenir transversalmente en diferentes capas del sistema:
-
-1. **Como efector propiamente dicho**, capaz de producir categorías o niveles conceptuales.
-2. **Como jerarquizador de efectores**, actuando como un dispositivo regulador o facilitador de combinaciones.
-3. **Como mecanismo compositivo o de masterización**, actuando junto a la gramática para organizar el texto final de forma estética y jerarquizada.
 
 
 

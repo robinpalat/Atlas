@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Vectores
 nav_order: 2

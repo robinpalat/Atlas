@@ -6,8 +6,9 @@ nav_order: 4
 ---
 
 
-# Generador de Lenguaje Atlas
 
+# Generador de Lenguaje Atlas
+<br><br><br><br>
 El **GLA (Generador Léxico Atlas)** es el módulo final que se encarga de generar el **lenguaje** a partir de los vectores proporcionados por el MCVP. Este módulo consta de dos submódulos fundamentales: **DLD (Dispositivo Léxico Dinámico)** y **FAE (Fase de Alineamiento Estético)**.
 
 #### DLD - Dispositivo Léxico Dinámico
@@ -43,3 +44,6 @@ La **FAE** es la fase final en la que los efectores generados por el DLD son **o
 
 3. **Composición Estética Final**:
    - En este paso, se da la **composición estética final** del texto, donde las variables de los efectores se alinean y producen una salida coherente, significativa y estilísticamente rica.
+
+
+---

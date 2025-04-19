@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Input de Carga Perceptual
-
+<br><br><br><br>
 El **ICP (Input de Carga Perceptual)** es el primer módulo del sistema, encargado de recibir y analizar la imagen de entrada para extraer parámetros estéticos clave. Funciona como un conjunto de **sensores** que capturan diversas características visuales de la imagen.
 
 #### Funciones Principales del ICP

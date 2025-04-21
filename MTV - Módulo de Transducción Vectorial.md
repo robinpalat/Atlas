@@ -2,6 +2,7 @@
 layout: page
 title: Módulo de codificación Vectorial Perceptual
 nav_order: 3
+parent: Arquitectura
 
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Generador de Lenguaje Atlas
 nav_order: 4
+parent: Arquitectura
 has_children: true
 
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: Input de Carga Perceptual
 nav_order: 2
+parent: Arquitectura
 has_children: true
 
 ---

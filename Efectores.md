@@ -2,7 +2,7 @@
 layout: page
 title: Efectores
 nav_order: 3
-parent: Sistema Atlas
+parent: Flujo de Datos del Sistema
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dispositivo Lexodinámico (DL)
+title: Dispositivo Lexodinámico
 nav_order: 1
 parent: Generador de Lenguaje Atlas
 

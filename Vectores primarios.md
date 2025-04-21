@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Sensores
+title: Vectores primarios
 nav_order: 1
-parent: Sistema Atlas
+parent: Flujo de Datos del Sistema
 
 ---
 
 ICP - Input de Carga  Perceptual
 
-En el contexto del **Sistema Atlas**, se denomina **Sensores** al conjunto de técnicas computacionales destinadas a la **extracción y cuantificación de parámetros visuales** a partir de una imagen. Su objetivo es registrar datos objetivos que describen la estructura estética del estímulo visual, conformando la **base perceptual primaria** del sistema.
+En el contexto del **Sistema Atlas**, se denomina **Vectores primarios** al conjunto de técnicas computacionales destinadas a la **extracción y cuantificación de parámetros visuales** a partir de una imagen. Su objetivo es registrar datos objetivos que describen la estructura estética del estímulo visual, conformando la **base perceptual primaria** del sistema.
 
 ### Función
 
-Los sensores operan como capa de percepción artificial. Constituyen el primer nivel funcional del sistema, denominado **Módulo de Captura Perceptual (ICP)**. Se encargan de identificar, medir y codificar atributos visuales relevantes para la posterior vectorización semántica.
+Los Vectores primarios operan como capa de percepción artificial. Constituyen el primer nivel funcional del sistema, denominado **Módulo de Captura Perceptual (ICP)**. Se encargan de identificar, medir y codificar atributos visuales relevantes para la posterior vectorización semántica.
 
 ### Características
 

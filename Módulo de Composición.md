@@ -2,7 +2,7 @@
 layout: page
 title: Módulo de Composición
 nav_order: 2
-parent: Generador de Lenguaje Atlas
+parent: Generador de Lenguaje
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Generador de Lenguaje Atlas
+title: Generador de Lenguaje
 nav_order: 4
 parent: Arquitectura
 has_children: true
 
 ---
 
-# Generador de Lenguaje Atlas
+# Generador de Lenguaje
 <br><br>
-El **GLA (Generador Lenguaje Atlas)** es el módulo final que se encarga de generar el **lenguaje** a partir de los vectores proporcionados por el MCVP. Este módulo consta de dos submódulos fundamentales: **DLD (Dispositivo Léxico Dinámico)** y **FAE (Fase de Alineamiento Estético)**.
+El **GLA (Generador Lenguaje)** es el módulo final que se encarga de generar el **lenguaje** a partir de los vectores proporcionados por el MCVP. Este módulo consta de dos submódulos fundamentales: **DLD (Dispositivo Léxico Dinámico)** y **FAE (Fase de Alineamiento Estético)**.
 
 #### DLD - Dispositivo Léxico Dinámico
 

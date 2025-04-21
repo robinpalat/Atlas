@@ -2,7 +2,7 @@
 layout: page
 title: Dispositivo Lexodinámico
 nav_order: 1
-parent: Generador de Lenguaje Atlas
+parent: Generador de Lenguaje
 
 ---
 

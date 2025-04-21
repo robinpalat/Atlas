@@ -6,7 +6,7 @@ has_children: true
 
 ---
 
-##Arquitectura
+## Arquitectura
 
 ### 2.2 flujo de datos
 

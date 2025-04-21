@@ -2,6 +2,7 @@
 layout: page
 title: Flujo de Datos del Sistema
 nav_order: 7
+parent: Arquitectura
 has_children: true
 
 ---

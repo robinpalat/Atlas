@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # Atlas: Sistema de Generación de Texto por Lexoplasticidad
-<br><br>
+<br>
 
 ## 2.1 Descripción General
 <br>

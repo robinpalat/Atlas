@@ -1,5 +1,5 @@
 title: Atlas
-remote_theme: pmarsceill/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
 url:  https://github.com/robinpalat/atlas
 plugins:
   - jekyll-feed

@@ -6,8 +6,6 @@ parent: Flujo de Datos del Sistema
 
 ---
 
-ICP - Input de Carga  Perceptual
-
 En el contexto del **Sistema Atlas**, se denomina **Vectores primarios** al conjunto de técnicas computacionales destinadas a la **extracción y cuantificación de parámetros visuales** a partir de una imagen. Su objetivo es registrar datos objetivos que describen la estructura estética del estímulo visual, conformando la **base perceptual primaria** del sistema.
 
 ### Función

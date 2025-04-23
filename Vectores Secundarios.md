@@ -5,8 +5,6 @@ nav_order: 2
 parent: Flujo de Datos del Sistema
 
 ---
- 
-MCVP - Módulo de Codificación Vectorial Perceptual
 
 ### Definición
 

@@ -6,9 +6,3 @@ parent: Arquitectura
 has_children: true
 
 ---
-
-
-
-
-
----

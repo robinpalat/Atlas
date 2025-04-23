@@ -1,12 +1,12 @@
 ---
 layout: page
-title: CIE - Carga Interpretativa Expresiva
+title: Carga Interpretativa Expresiva
 nav_order: 1
 parent: Dispositivo Lexodinámico
 ---
-# CIE - Carga Interpretativa Expresiva 
 
-**Definición**:  
+
+## **Definición**:  
 La **Carga Interpretativa Expresiva (CIE)** es la  información adicional que una palabra lleva consigo más allá de su significado literal. Esta carga es la suma de los **atributos sensoriales, emocionales, estéticos** y **cognitivos** , lo que le da una dimensión más evocadora y resonante.
 
 **Componentes**:

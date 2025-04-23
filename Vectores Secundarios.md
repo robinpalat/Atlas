@@ -2,8 +2,7 @@
 layout: page
 title: Vectores secundarios
 nav_order: 2
-parent: Flujo de Datos del Sistema
-
+parent: Flujo de Datos
 ---
 
 ### Definición

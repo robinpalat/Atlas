@@ -2,8 +2,7 @@
 layout: page
 title: Efectores
 nav_order: 3
-parent: Flujo de Datos del Sistema
-
+parent: Flujo de Datos
 ---
 
 #### Definición

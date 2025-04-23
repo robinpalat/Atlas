@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generador de Lenguaje
+title: Procesador de Lexoplasticidad
 nav_order: 3
 parent: Módulos
 has_children: true

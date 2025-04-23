@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Módulo de Transducción Vectorial
-nav_order: 3
-parent: Arquitectura
+nav_order: 2
+parent: Módulos
 
 ---
 

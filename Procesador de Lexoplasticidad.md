@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Generador de Lenguaje
-nav_order: 4
-parent: Arquitectura
+nav_order: 3
+parent: Módulos
 has_children: true
 
 ---

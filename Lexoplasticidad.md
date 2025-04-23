@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Lexoplasticidad
+title: ¿Qué es lexoplasticidad?
 nav_order: 2
-
 ---
 # Lexoplasticidad
 

@@ -6,7 +6,7 @@ nav_order: 1
 
 ---
 
-# Atlas: Sistema de Generación de Texto por Lexoplasticidad
+# Atlas: Sistema de Generación de Texto basado en Lexoplasticidad
 <br>
 El Sistema de Generación de Texto por Lexoplasticidad es un modelo conceptual y operativo que produce construcciones textuales a partir de la manipulación estética, estructural y sensorial del léxico. El léxico es entendido no solo como portador de significados, sino como materia plástica susceptible de transformación creativa.
 

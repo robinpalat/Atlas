@@ -5,7 +5,8 @@ nav_order: 1
 parent: Procesador de Lexoplasticidad
 has_children: true
 ---
-
+# Dispositivo Lexodinámico
+<br>
 El Dispositivo Lexodinámico (DL) es el motor estructural que opera el GLA. Su función principal es transformar los vectores sensoriales generados por el MCPV en modificaciones lingüísticas a través de la interacción de tres capas de información:
 
 - Red léxica (palabras): La red estática de palabras del idioma, dispuesta de acuerdo con el abecedario y sus definiciones tradicionales.

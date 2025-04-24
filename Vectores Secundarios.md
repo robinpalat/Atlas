@@ -4,7 +4,8 @@ title: Vectores secundarios
 nav_order: 2
 parent: Flujo de Datos
 ---
-
+# Vectores Secundarios
+<br>
 Los **Vectores secundarios** son entidades estructuradas que representan cuantitativamente los parámetros estéticos extraídos por los sensores a partir de una imagen. Actúan como **unidades de codificación semántico-perceptual**, cuya función es traducir los datos sensoriales en una forma que pueda ser utilizada por los efectores del sistema Atlas para la generación léxica posterior.
 
 Cada Vectores secundarios contiene una **clave semántica** (nombre), un **valor específico** y un **nivel de intensidad**. Estos elementos permiten establecer correlaciones con respuestas estéticas organizadas en la base de datos de efectores.

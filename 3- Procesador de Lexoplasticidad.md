@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Procesador de Lexoplasticidad
+title: 3- Procesador de Lexoplasticidad
 nav_order: 3
 parent: Módulos
 has_children: true
-
 ---
 
 # PLP – Procesador de Lexoplasticidad

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Módulo de Transducción Vectorial
+title: 2- Módulo de Transducción Vectorial
 nav_order: 2
 parent: Módulos
-
 ---
 
 # Módulo de Transducción Vectorial

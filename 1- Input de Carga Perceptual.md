@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Input de Carga Perceptual
+title: 1- Input de Carga Perceptual
 nav_order: 1
 parent: Módulos
-
 ---
 
 # Input de Carga Perceptual

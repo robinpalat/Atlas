@@ -2,7 +2,7 @@
 layout: page
 title: Dispositivo Lexodinámico
 nav_order: 1
-parent: Procesador de Lexoplasticidad
+parent: 3- Procesador de Lexoplasticidad
 has_children: true
 ---
 # Dispositivo Lexodinámico

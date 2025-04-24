@@ -2,7 +2,7 @@
 layout: page
 title: Módulo de Composición
 nav_order: 2
-parent: Procesador de Lexoplasticidad
+parent: 3- Procesador de Lexoplasticidad
 ---
 
 # Módulo de Composición

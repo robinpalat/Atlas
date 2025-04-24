@@ -8,7 +8,7 @@ has_children: true
 ---
 
 # PLP – Procesador de Lexoplasticidad
-<br><br>
+<br>
 El Procesador de Lexoplasticidad es el módulo final que se encarga de generar el **lenguaje** a partir de los vectores proporcionados por el MCVP. Este módulo consta de dos submódulos fundamentales: **DLD (Dispositivo Léxico Dinámico)** y **FAE (Fase de Alineamiento Estético)**.
 
 #### DLD - Dispositivo Léxico Dinámico

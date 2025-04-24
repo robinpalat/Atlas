@@ -7,7 +7,7 @@ has_children: true
 ---
 
 ## Arquitectura 
-<br><br>
+<br>
 ### flujo de datos
 
 
@@ -20,7 +20,7 @@ Vectores primarios (ICP) → Vectores secundarios (MTV) → Efectores (PLP) → 
 El sistema está diseñado para operar con tres tipos de datos: **sensores, vectores y efectores**. Los **sensores** representan datos dinámicos que se extraen directamente de la imagen de entrada. Estos datos son fundamentales para captar las características estéticas de la imagen, tales como las proporciones áureas, la distribución de colores dominantes y secundarios, entre otros parámetros visuales. Los sensores permiten traducir las propiedades visuales de la imagen en información utilizable por el sistema, sirviendo como el primer paso en el flujo de datos. Los **vectores y efectores** son estáticos y   están estructurados de manera modular, independiente y expandible, lo que permite una mayor flexibilidad y sensibilidad al sistema. Esta arquitectura facilita la integración de nuevos componentes y la evolución del sistema a medida que se requiera mayor complejidad o capacidad de respuesta.
 <br><br>
 ### Módulos 
-<br><br>
+<br>
 ### ICP - Input de Carga Perceptual
 
 El ICP es la unidad encargada de captar la imagen de entrada y extraer de ella una serie de parámetros estéticos. Utiliza sensores especializados para leer atributos como:

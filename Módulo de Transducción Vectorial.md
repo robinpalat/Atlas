@@ -6,15 +6,12 @@ parent: Módulos
 
 ---
 
-
-
 # Módulo de Transducción Vectorial
-<br><br>
-
+<br>
 El **MTV** es el módulo intermedio del Sistema Atlas. Su función principal es **vectorizar** los datos perceptuales generados por el ICP y mapearlos a un formato estructurado de vectores semánticos que representan las características clave de la imagen. Estos vectores sirven para activar los **efectores** en el siguiente paso del sistema.
 <br>
 #### Funciones del MTV
-<br><br>
+<br>
 1. **Vectorización de Parámetros**:
    - Los datos capturados por el ICP (como el color dominante, proporciones áureas, etc.) son **codificados en vectores numéricos**.
    - La vectorización sigue un **modelo de codificación semántica** donde cada vector corresponde a un parámetro perceptual.

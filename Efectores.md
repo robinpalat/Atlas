@@ -5,8 +5,6 @@ nav_order: 3
 parent: Flujo de Datos
 ---
 
-#### Definición
-
 Los **efectores** son unidades léxicas o estéticas que constituyen la **respuesta simbólica o verbal** activada por la acción de los vectores. Funcionan como **elementos generativos de lenguaje o estructuras estéticas**, siendo el resultado final de la correlación entre la percepción visual (vectores) y el sistema de salida léxica (GLA).
 
 En términos funcionales, los efectores representan **palabras, frases, estilos, tonos o estructuras formales** que se manifiestan en el texto producido como output del sistema.

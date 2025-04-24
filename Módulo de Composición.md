@@ -5,12 +5,8 @@ nav_order: 2
 parent: Procesador de Lexoplasticidad
 ---
 
-
-
 # Módulo de Composición (o Módulo Compositivo)
-
-### Descripción General:
-
+<br>
 El Módulo de Composición (también conocido como Módulo Compositivo) es un componente esencial dentro del sistema de procesamiento del lenguaje, encargado de organizar, estructurar y generar el texto final a partir de los vectores que le preceden. Este módulo utiliza diversas técnicas para lograr que el output sea coherente, estéticamente armonioso y funcionalmente adecuado al propósito deseado.
 
 El proceso de composición no solo se basa en la sintaxis y la gramática, sino también en la estética del lenguaje, lo que le otorga una dimensión plástica, capaz de evocar emociones y sensaciones en el lector o usuario final. A través de este módulo, se alinean las palabras dentro de un marco estético, utilizando principios de armonía, ritmo, y familiaridad.

@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Lexoplasticidad
 <br>
-La lexoplasticidad es un enfoque que propone la abstracción del léxico del marco convencional del lenguaje para dotarlo de una nueva dinámica, volviéndolo un recurso maleable. Al no estar limitado por la semántica, el léxico se concibe como un ente flexible, capaz de ser moldeado para generar nuevas formas expresivas, artísticas y creativas. Bajo este enfoque, las palabras evocan sensaciones, atmósferas, emociones y contrastes, prescindiendo de la secuencia semántica lineal.
+La lexoplasticidad es un enfoque que propone la abstracción del léxico del marco convencional del lenguaje y dotarlo de una nueva dinámica, volviéndolo un recurso maleable. El léxico se concibe como un ente flexible utilizado para generar formas expresivas, artísticas y creativas. En este enfoque, las palabras evocan sensaciones, atmósferas, emociones y contrastes, prescindiendo de la secuencia semántica lineal.
 
 El término es un neologismo compuesto por tres elementos:
 
